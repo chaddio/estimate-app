@@ -5,7 +5,7 @@ App Instance Settings, dynamic and central configured
 */
 
 $config['config_app']['app_title'] = 'Webtools';
-$config['config_app']['company'] = 'AC Company';
+$config['config_app']['company'] = 'Orangutan Home Services';
 $config['config_app']['admin_email'] = 'chad.r.marshall@gmail.com';
 $config['config_app']['admin_name'] = 'Chad Marshall';
 $config['config_app']['auto_email'] = 'chad.r.marshall@gmail.com';

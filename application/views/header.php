@@ -15,11 +15,8 @@
         <!--<meta name="viewport" content="width=device-width">-->
         <meta name="viewport" content="width=device-width,user-scalable=no">
         <link rel="stylesheet" href="<?php echo base_url();?>assets/css/bootstrap.min.css">
-        <?php if(ENVIRONMENT == 'development') : ?>
-            <link rel="stylesheet" href="<?php echo base_url();?>assets/css/bootswatch.cerulean.min.css">
-        <?php else : ?>
-            <link rel="stylesheet" href="<?php echo base_url();?>assets/css/bootswatch.united.min.css">
-        <?php endif ; ?>
+        <link rel="stylesheet" href="<?php echo base_url();?>assets/css/bootswatch.united.min.css">
+        
         <!--used to override bootstrap/bootswatch's css elements so touching bootstrap files isn't necessary-->
         <link rel="stylesheet" href="<?php echo base_url();?>assets/css/bs.override.css">
         <!--<link rel="stylesheet" href="<?php echo base_url();?>assets/css/bootstrapValidator.min.css">-->

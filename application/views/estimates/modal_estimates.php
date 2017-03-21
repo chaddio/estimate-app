@@ -53,7 +53,6 @@
                         <div class="form-group"><input type="text" class="form-control" name="zip_code" value="" id="zip_code" placeholder="Zip Code"></div>
                         <div class="form-group"><input type="text" class="form-control" name="first_name" value="" id="first_name" placeholder="First Name"></div>
                         <div class="form-group"><input type="text" class="form-control" name="last_name" value="" id="last_name" placeholder="Last Name"></div>
-                  
                     <div class="form-group">
                         <select class="form-control" name="unit_type" id="unit_type" placeholder="Unit Type" />
                             <option value="" selected="selected">Unit Type - Please Select</option>
