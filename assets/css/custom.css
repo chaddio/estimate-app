@@ -1,0 +1,82 @@
+/* 
+    Document   : custom.css
+    Created on : Sep 16, 2013, 3:49:23 PM
+    Author     : Chad
+    Description: custom additions that aren't in bootstrap
+*/
+/* other sizes that are propotionate 250x181 350x253  450x325 550x398 */
+.app-logo{
+    max-height: 250px; 
+    max-width: 181px;
+}
+
+.promo-img{
+    max-height: 38px;
+    max-width: 39px;
+}
+/* 550x242 or 250x110 or 350x154 450x198 */
+.productImg{
+    max-height: 450px;
+    max-width: 198px;
+    /* border: 1px #ccc solid; */
+}
+.error404{
+    max-height: 362px;
+    max-width: 337px;
+    padding-bottom: 30px;
+}
+
+.well-center{
+    text-align: center;
+}
+
+.legend-center{
+    text-align: center;
+}
+/* height of loader-huge.gif is 160x160 */
+#loading-indicator-main {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  max-height: 110px;
+  max-width: 110px;
+}
+
+#loading-indicator-first {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  max-height: 110px;
+  max-width: 110px;
+  z-index: 10000;
+}
+
+#loading-indicator-resume {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  max-height: 110px;
+  max-width: 110px;
+  z-index: 10000;
+}
+
+#loading-indicator-modal {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  max-height: 110px;
+  max-width: 110px;
+  z-index: 10000;
+}
+
+#loading-indicator-total {
+  position: fixed;
+  right: 8%;
+  top: 75px;
+/*  left: 50%;
+  top: 50%;*/
+/*  max-height: 110px;
+  max-width: 110px;*/
+}
+
+

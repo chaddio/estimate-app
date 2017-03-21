@@ -1,0 +1,35 @@
+/* 
+    Document   : bs.override.css
+    Created on : Jan 16, 2015, 3:49:23 PM
+    Author     : Chad
+    Description: override bootstrap/bootswatch classes
+*/
+
+legend {
+  display: block;
+  width: 100%;
+  padding: 0 0 10px 0;
+  margin-bottom: 20px;
+  font-size: 21px;
+  line-height: inherit;
+  color: #333333;
+  border: 0;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.page-header {
+  padding-bottom: 9px;
+  margin: 20px 0 30px;
+  border-bottom: 1px;
+}
+
+#estTotalAll.affix{
+    right: 6%;
+    z-index: 500;
+    //margin-right: 50px;
+}
+
+div.form-inline{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}

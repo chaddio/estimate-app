@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<estimatePricing>
+    <splitGasSystems> 
+        <splitGasSystemsBasic>     
+            <baseSystem>
+                <price>5667.00</price>  
+                <brand>Day &amp; Night</brand>	
+                <description>14 SEER</description>	
+                <id>EBVJw4N0Bi</id>
+            </baseSystem>
+            <brandOptions>
+                <item>
+                    <price>0.00</price>
+                    <compdesc>INCLUDED</compdesc>
+                    <brand>Day &amp; Night</brand>
+                    <description>14 SEER</description>
+                    <id>EBVJw4N0Bi</id>
+                    <upsizePrices>222|333|444|555|889</upsizePrices>
+                    <active>1</active>
+                    <radioDefault>1</radioDefault>
+                </item>
+                <item>
+                    <price>444.00</price>
+                    <brand>Trane</brand>
+                    <description>XR14 w/Dual Aluminum Coils</description>
+                    <id>sjAT7yn1Nh</id>
+                    <upsizePrices>222|445|556|667|889</upsizePrices>
+                    <active>1</active>
+                </item>
+                <item>
+                    <price>666.00</price>
+                    <brand>Day &amp; Night</brand>
+                    <description> Red T Mobile Home Approved</description>
+                    <id>EelB28BaPK</id>
+                    <upsizePrices>111|223|445|556|889</upsizePrices>
+                    <active>1</active>
+                </item>
+                <item>
+                    <price>1627.00</price>
+                    <brand>Trane</brand>
+                    <description>XR16 w/XL80 Furnace</description>
+                    <id>brLImzKMvm</id>
+                    <upsizePrices>235|371|706|941|1177</upsizePrices>
+                    <active>1</active>
+                </item>
+            </brandOptions>
+        </splitGasSystemsBasic>
+        <splitGasSystemsDeluxe>	 
+            <baseSystem>
+                <price>7765.00</price>
+                <brand>Day &amp; Night</brand>
+                <description>Hybrid 14 Seer w/variable speed</description>
+                <id>E6PCMXqGeq</id>
+            </baseSystem>
+            <brandOptions>
+                <item>
+                    <price>0.00</price>
+                    <compdesc>INCLUDED</compdesc>
+                    <brand>Day &amp; Night</brand>
+                    <description>Hybrid 14 Seer w/variable speed</description>
+                    <id>E6PCMXqGeq</id>
+                    <upsizePrices>235|470|706|941|1294</upsizePrices>
+                    <active>1</active>
+                    <radioDefault>1</radioDefault>
+                </item>
+                <item>
+                    <price>470.00</price>
+                    <brand>Trane</brand>
+                    <description>Hybrid XR14 w/variable speed</description>
+                    <id>MDOtw4KfE7</id>
+                    <upsizePrices>118|353|589|824|1059</upsizePrices>
+                    <active>1</active>
+                </item>
+                <item>
+                    <price>1059.00</price>
+                    <brand>Ruud</brand>
+                    <description>ECM Variable Speed</description>
+                    <id>nVcfsd64n5</id>
+                    <upsizePrices>235|352|588|941|1176</upsizePrices>
+                    <active>1</active>
+                </item>
+                <item>
+                    <price>1294.00</price>
+                    <brand>Trane</brand>
+                    <description>XR16 w/Variable Speed</description>
+                    <id>vuGd0oEgVM</id>
+                    <upsizePrices>235|353|588|941|1176</upsizePrices>
+                    <active>1</active>
+                </item>
+            </brandOptions>
+        </splitGasSystemsDeluxe>
+        <splitGasSystemsPremier>	
+            <baseSystem>
+                <price>10000.00</price>
+                <brand>Day &amp; Night</brand>
+                <description>2 Stage Cooling</description>
+                <id>uCI77G1lNG</id>
+            </baseSystem>
+            <brandOptions>
+                <item>
+                    <price>0.00</price>
+                    <compdesc>INCLUDED</compdesc>
+                    <brand>Day &amp; Night</brand>
+                    <description>2 Stage Cooling</description>
+                    <id>uCI77G1lNG</id>
+                    <upsizePrices>588|588|941|941|1294</upsizePrices>
+                    <active>1</active>
+                    <radioDefault>1</radioDefault>
+                </item>
+                <item>
+                    <price>706.00</price>
+                    <brand>Trane</brand>
+                    <description>2-Stage VS XR17</description>
+                    <id>32GKE6TJ14</id>
+                    <upsizePrices>588|588|1176|1176|1529</upsizePrices>
+                    <active>1</active>
+                </item>
+                <item>
+                    <price>3750.00</price>
+                    <brand>Trane</brand>
+                    <description>XR17 VS Compressor</description>
+                    <id>fQJ9JWlex5</id>
+                    <upsizePrices>1250|1250|1625|1625|1875</upsizePrices>
+                    <active>1</active>
+                </item>
+                <item>
+                    <price>5375.00</price>
+                    <brand>Trane</brand>
+                    <description>XV20 VS Compressor</description>
+                    <id>hvrKsmdel0</id>
+                    <upsizePrices>750|750|1250|1250|1750</upsizePrices>
+                    <active>1</active>
+                </item>
+            </brandOptions>
+        </splitGasSystemsPremier>
+    </splitGasSystems>
+    <splitHPSystems> 
+        <splitHPSystemsBasic>     
+            <baseSystem>
+                <price>5667.00</price>  
+                <brand>Day &amp; Night</brand>	
+                <description>14 SEER</description>	
+                <id>g3nAxXQ9UJ</id>
+            </baseSystem>
+            <brandOptions>
+                <item>
+                    <price>0.00</price>
+                    <compdesc>INCLUDED</compdesc>
+                    <brand>Day &amp; Night</brand>
+                    <description>14 SEER</description>
+                    <id>g3nAxXQ9UJ</id>
+                    <upsizePrices>111|222|444|666|1111</upsizePrices>
+                    <active>1</active>
+                    <radioDefault>1</radioDefault>
+                </item>
+                <item>
+                    <price>444.00</price>
+                    <brand>Trane</brand>
+                    <description>XR14 w/Dual Aluminum Coils</description>
+                    <id>x99PJAqGPN</id>
+                    <upsizePrices>111|222|445|667|1111</upsizePrices>
+                    <active>1</active>
+                </item>
+                <item>
+                    <price>666.00</price>
+                    <brand>Day &amp; Night</brand>
+                    <description>Red T Mobile Home Approved</description>
+                    <id>wuBQYN07WI</id>
+                    <upsizePrices>223|445|556|1000|1334</upsizePrices>
+                    <active>1</active>
+                </item>
+                <item>
+                    <price>1627.00</price>
+                    <brand>Trane </brand>
+                    <description>XR15 w/XL80 Furnace</description>
+                    <id>zL9vkwfASU</id>
+                    <upsizePrices>118|353|471|706|824</upsizePrices>
+                    <active>1</active>
+                </item>
+            </brandOptions>
+        </splitHPSystemsBasic>
+        <splitHPSystemsDeluxe>	 
+            <baseSystem>
+                <price>7529.00</price>
+                <brand>Day &amp; Night</brand>
+                <description>Hybrid Blower</description>
+                <id>Vn8qs0F8ku</id>
+            </baseSystem>
+            <brandOptions>
+                <item>
+                    <price>0.00</price>
+                    <compdesc>INCLUDED</compdesc>
+                    <brand>Day &amp; Night</brand>
+                    <description>Hybrid Blower</description>
+                    <id>Vn8qs0F8ku</id>
+                    <upsizePrices>118|353|589|824|1412</upsizePrices>
+                    <active>1</active>
+                    <radioDefault>1</radioDefault>
+                </item>
+                <item>
+                    <price>0.00</price>
+                    <compdesc>INCLUDED (Addt. Option)</compdesc>
+                    <addtBase>1</addtBase>
+                    <brand>Trane</brand>
+                    <description>XR14 Spd TEM6-ECM</description>
+                    <id>hXfUjPeIiJ</id>
+                    <upsizePrices>236|471|706|1059|1530</upsizePrices>
+                    <active>1</active>
+                </item>
+                <item>
+                    <price>471.00</price>
+                    <brand>Trane</brand>
+                    <description>XR15 Spd TEM6-ECM</description>
+                    <id>4dUjxDtyC5</id>
+                    <upsizePrices>118|353|588|824|1412</upsizePrices>
+                    <active>1</active>
+                </item>
+                <item>
+                    <price>1765.00</price>
+                    <brand>Trane</brand>
+                    <description>XR16  Hyperian Vortica VS</description>
+                    <id>6g3eEo9zaS</id>
+                    <upsizePrices>235|471|706|1059|1530</upsizePrices>
+                    <active>1</active>
+                </item>
+            </brandOptions>
+        </splitHPSystemsDeluxe>
+        <splitHPSystemsPremier>	
+            <baseSystem>
+                <price>10471.00</price>
+                <brand>Day &amp; Night</brand>
+                <description>2 Stage Cooling</description>
+                <id>wrWoW1Q3ss</id>
+            </baseSystem>
+            <brandOptions>
+                <item>
+                    <price>0.00</price>
+                    <compdesc>INCLUDED</compdesc>
+                    <brand>Day &amp; Night</brand>
+                    <description>2 Stage Cooling</description>
+                    <id>wrWoW1Q3ss</id>
+                    <upsizePrices>705|705|1176|1176|1529</upsizePrices>
+                    <active>1</active>
+                    <radioDefault>1</radioDefault>
+                </item>
+                <item>
+                    <price>588.00</price>
+                    <brand>Trane</brand>
+                    <description>2-Stage Hyperian VS</description>
+                    <id>7vP7oxpO83</id>
+                    <upsizePrices>470|470|1294|1294|1882</upsizePrices>
+                    <active>1</active>
+                </item>
+                <item>
+                    <price>3154.00</price>
+                    <brand>Trane</brand>
+                    <description>XV18 VS Compressor</description>
+                    <id>H1iKRxIRuL</id>
+                    <upsizePrices>750|750|1750|1750|2500</upsizePrices>
+                    <active>1</active>
+                </item>
+                <item>
+                    <price>4904.00</price>
+                    <brand>Trane</brand>
+                    <description>XV20 VS Compressor</description>
+                    <id>f7amfrxBtY</id>
+                    <upsizePrices>625|625|1500|1500|2125</upsizePrices>
+                    <active>1</active>
+                </item>
+            </brandOptions>
+        </splitHPSystemsPremier>
+    </splitHPSystems>
+    <packagedGasSystems>
+        <packagedGasSystemsBasic>	
+            <baseSystem>
+                <price>6667.00</price>
+                <brand>Ruud</brand>
+                <description>14 SEER</description>
+                <id>wnvR7TwwFA</id>
+            </baseSystem>
+            <brandOptions>
+                <item>
+                    <price>0.00</price>
+                    <compdesc>INCLUDED</compdesc>
+                    <brand>Ruud</brand>
+                    <description>14 SEER</description>
+                    <id>wnvR7TwwFA</id>
+                    <upsizePrices>111|222|555|666|1000</upsizePrices>
+                    <active>1</active>
+                    <radioDefault>1</radioDefault>
+                </item>
+                <item>
+                    <price>509.00</price>
+                    <brand>Trane</brand>
+                    <description>XR14C SpineFin Aluminum Coil</description>
+                    <id>eQRLk8jDkY</id>
+                    <upsizePrices>627|236|353|471|824</upsizePrices>
+                    <active>1</active>
+                </item>
+            </brandOptions>
+        </packagedGasSystemsBasic>
+        <packagedGasSystemsDeluxe>	
+            <baseSystem>
+                <price>8118.00</price>
+                <brand>Goodman</brand>
+                <description>High Effiency</description>
+                <id>LLGLGJpere</id>
+                <active>1</active>
+            </baseSystem>
+            <brandOptions>
+                <item>
+                    <price>0.00</price>
+                    <compdesc>INCLUDED</compdesc>
+                    <brand>Goodman</brand>
+                    <description>High Effiency</description>
+                    <id>LLGLGJpere</id>
+                    <upsizePrices>353|4700|706|823|1058</upsizePrices>
+                    <active>1</active>
+                    <radioDefault>1</radioDefault>
+                </item>
+                <item>
+                    <price>353.00</price>
+                    <brand>Trane</brand>
+                    <description>XL14C VS ECM</description>
+                    <id>qG0IdvSIvo</id>
+                    <upsizePrices>235|353|588|705|823</upsizePrices>
+                    <active>1</active>
+                </item>
+                <item>
+                    <price>1632.00</price>
+                    <brand>Ruud</brand>
+                    <description>XL14C ECM VS</description>
+                    <id>aJyA3tMWhR</id>
+                    <upsizePrices>125|250|625|875|1500</upsizePrices>
+                    <active>1</active>
+                </item>
+            </brandOptions>
+        </packagedGasSystemsDeluxe>
+        <packagedGasSystemsPremier>
+            <baseSystem>
+                <price>9294.00</price>
+                <brand>Day &amp; Night</brand>
+                <description>2 Stage Compressor</description>
+                <id>0M7ns3eNwf</id>
+            </baseSystem>
+            <brandOptions>
+                <item>
+                    <price>0.00</price>
+                    <compdesc>INCLUDED</compdesc>
+                    <brand>Day &amp; Night</brand>
+                    <description>2 Stage Compressor</description>
+                    <id>0M7ns3eNwf</id>
+                    <upsizePrices>471|471|941|941|1177</upsizePrices>
+                    <active>1</active>
+                    <radioDefault>1</radioDefault>
+                </item>
+                <item>
+                    <price>1177.00</price>
+                    <brand>Ruud</brand>
+                    <description>2 Stage Compressor</description>
+                    <id>l7Qa63NAV9</id>
+                    <upsizePrices>470|470|588|588|823</upsizePrices>
+                    <active>1</active>
+                </item>
+                <item>
+                    <price>2706.00</price>
+                    <brand>Trane</brand>
+                    <description>2-Stage Compressor</description>
+                    <id>dw3FVCDuws</id>
+                    <upsizePrices>0|0|250|250|375</upsizePrices>
+                    <active>1</active>
+                </item>
+            </brandOptions>
+        </packagedGasSystemsPremier>
+    </packagedGasSystems>
+    <packagedHPSystems>
+        <packagedHPSystemsBasic>	
+            <baseSystem>
+                <price>6444.00</price>
+                <brand>Day &amp; Night</brand>
+                <description>14 Seer Mobile Home Unit</description>
+                <id>LBeQ0I6jM9</id>
+            </baseSystem>
+            <brandOptions>
+                <item>
+                    <price>0.00</price>
+                    <compdesc>INCLUDED</compdesc>
+                    <brand>Day &amp; Night</brand>
+                    <description>14 Seer Mobile Home Unit</description>
+                    <id>LBeQ0I6jM9</id>
+                    <upsizePrices>112|334|556|667|778</upsizePrices>
+                    <active>1</active>
+                    <radioDefault>1</radioDefault>
+                </item>
+                <item>
+                    <price>497.00</price>
+                    <brand>Trane</brand>
+                    <description>XL14C SpineFin Coils</description>
+                    <id>LIOi8tj5Nr</id>
+                    <upsizePrices>118|235|471|588|941</upsizePrices>
+                    <active>1</active>
+                </item>
+            </brandOptions>
+        </packagedHPSystemsBasic>
+        <packagedHPSystemsDeluxe>	
+            <baseSystem>
+                <price>7765.00</price>
+                <brand>Trane</brand>
+                <description>Under/Over (Goettle)</description>
+                <id>sdbYfsAfLE</id>
+                <active>1</active>
+            </baseSystem>
+            <brandOptions>
+                <item>
+                    <price>0.00</price>
+                    <compdesc>INCLUDED</compdesc>
+                    <brand>Trane</brand>
+                    <description>Under/Over (Goettl)</description>
+                    <id>sdbYfsAfLE</id>
+                    <upsizePrices>117|235|588|NA|NA</upsizePrices>
+                    <active>1</active>
+                    <radioDefault>1</radioDefault>
+                </item>
+                <item>
+                    <price>353.00</price>
+                    <brand>Ruud</brand>
+                    <description>High Efficient (NON-VS)</description>
+                    <id>fdvz23IJDC</id>
+                    <upsizePrices>117|470|706|941|1176</upsizePrices>
+                    <active>1</active>
+                </item>
+                <item>
+                    <price>235.00</price>
+                    <brand>Trane</brand>
+                    <description>XL14C VS &amp; SpinFin</description>
+                    <id>EVnzGKJVwU</id>
+                    <upsizePrices>235|471|706|824|1176</upsizePrices>
+                    <active>1</active>
+                </item>
+                <item>
+                    <price>1360.00</price>
+                    <brand>Ruud</brand>
+                    <description>Top Efficiency</description>
+                    <id>qGCjNa4ish</id>
+                    <upsizePrices>250|500|750|1000|1250</upsizePrices>
+                    <active>1</active>
+                </item>
+            </brandOptions>
+        </packagedHPSystemsDeluxe>
+        <packagedHPSystemsPremier>
+            <baseSystem>
+                <price>9059.00</price>
+                <brand>Day &amp; Night</brand>
+                <description>2 Stage Cooling</description>
+                <id>bE6pSrATgF</id>
+            </baseSystem>
+            <brandOptions>
+                <item>
+                    <price>0.00</price>
+                    <compdesc>INCLUDED</compdesc>
+                    <brand>Day &amp; Night</brand>
+                    <description>2 Stage Cooling</description>
+                    <id>bE6pSrATgF</id>
+                    <upsizePrices>470|470|941|941|1176</upsizePrices>
+                    <active>1</active>
+                    <radioDefault>1</radioDefault>
+                </item>
+                <item>
+                    <price>2191.00</price>
+                    <brand>Trane</brand>
+                    <description>2-Stage Compressor</description>
+                    <id>Ow3nH6U1Hn</id>
+                    <upsizePrices>0|0|625|625|688</upsizePrices>
+                    <active>1</active>
+                </item>
+            </brandOptions>
+        </packagedHPSystemsPremier>
+    </packagedHPSystems>
+    <sizeOptions>			
+        <size>
+            <price>0.00</price>
+            <compdesc>INCLUDED</compdesc>
+            <description>2.0 Ton Base</description>
+            <id>wlQdRMB2ig</id>
+            <active>1</active>
+        </size>	
+        <size>
+            <price>NULL</price>
+            <description>2.5 Ton Upsize</description>
+            <id>ylLv7QbYA5</id>
+            <active>1</active>
+        </size>
+        <size>
+            <price>NULL</price>
+            <description>3.0 Ton Upsize</description>
+            <id>UsvCf7gvV4</id>
+            <active>1</active>
+        </size>
+        <size>
+            <price>NULL</price>
+            <description>3.5 Ton Upsize</description>
+            <id>rfpT1EVlfP</id>
+            <active>1</active>
+        </size>
+        <size>
+            <price>NULL</price>
+            <description>4.0 Ton Upsize</description>
+            <id>FS7oKcaMRy</id>
+            <active>1</active>
+        </size>
+        <size>
+            <price>NULL</price>
+            <description>5.0 Ton Upsize</description>
+            <id>r1edL9RaEZ</id>
+            <active>1</active>
+        </size>
+    </sizeOptions>
+    <thermostats>	<!--Unit Accessories, Install Requirements, And Upgrades List-->
+        <item>				
+            <price>0.00</price>
+            <compdesc>INCLUDED</compdesc>
+            <description>5000 Digital Thermostat</description>
+            <id>pe6ECj0zsi</id>
+            <active>1</active>
+            <radioDefault>1</radioDefault>
+        </item>				
+        <item>				
+            <price>165.00</price>
+            <description>6000 Programmable Thermostat</description>
+            <id>N51Ro9uqze</id>
+            <active>1</active>
+        </item>
+        <item>				
+            <price>295.00</price>
+            <description>8000 Touch Screen Wifi Thermostat</description>
+            <id>5kyIXhemjm</id>
+            <active>1</active>
+        </item>
+        <item>				
+            <price>595.00</price>
+            <description>Lennox iComfort Thermostat</description>
+            <id>El7N1yuiGb</id>
+            <active>1</active>
+        </item>
+        <item>				
+            <price>695.00</price>
+            <description>Trane 950xl Thermostat</description>
+            <id>ZPCzI3PpYa</id>
+            <active>1</active>
+        </item>
+    </thermostats>
+    <financingOptions>
+        <item>
+            <price>0.00</price>
+            <compdesc>No Charge</compdesc>
+            <description>No Financing</description>
+            <id>YspSETu8KQ</id>
+            <active>1</active>
+            <radioDefault>1</radioDefault>
+        </item>		
+        <item>
+            <price>0.00</price>
+            <compdesc>No Fees</compdesc>
+            <description>Synchrony 603-Plan 0% Interest for 12 Months</description>
+            <id>5hpgTzwn3s</id>
+            <calcPayment>x,/,12</calcPayment>
+            <extra>Total amount divided by 12 months</extra>
+            <active>1</active>
+        </item>
+        <item>
+            <price>0.00</price>
+            <compdesc>No Fees</compdesc>
+            <description>Synchrony 600-Plan at 9.99%</description>
+            <id>fFOF04Eit5</id>
+            <calcPayment>x,*,.0125</calcPayment>
+            <extra>until balance paid in full</extra>
+            <active>1</active>
+        </item>	
+        <item>
+            <price>0.00</price>
+            <compdesc>No Fees</compdesc>
+            <description>Synchrony 601-Plan at 7.99%</description>
+            <id>vIyBBUzEV8</id>
+            <calcPayment>x,*,.025</calcPayment>
+            <extra>until balance paid in full</extra>
+            <active>1</active>
+        </item>
+        <item>
+            <price>0.00</price>
+            <compdesc>No Fees</compdesc>
+            <description>Synchrony 602-Plan at 5.99%</description>
+            <id>lio64njIpq</id>
+            <calcPayment>x,*,.03</calcPayment>
+            <extra>until balance paid in full</extra>
+            <active>1</active>
+        </item>
+        <item>
+            <price>0.00</price>
+            <compdesc>No Fees</compdesc>
+            <description>Geo Smart 9.99% APR</description>
+            <id>pxZLgqqf0D</id>
+            <calcPayment>x,*,.01138</calcPayment>
+            <extra>Minimum monthly payment</extra>
+            <active>1</active>
+        </item>
+        <item>
+            <price>395.00</price>
+            <description>Geo Smart 6.99% APR - Lower than 16 SEER</description>
+            <id>wWFcAUgySA</id>
+            <calcPayment>x,*,.010278</calcPayment>
+            <extra>Minimum monthly payment</extra>
+            <active>1</active>
+        </item>
+        <item>
+            <price>0.00</price>
+            <compdesc>No Fees</compdesc>
+            <description>Geo Smart 6.99% APR - 16 SEER or higher</description>
+            <id>ASygUAcFWw</id>
+            <calcPayment>x,*,.010278</calcPayment>
+            <extra>Minimum monthly payment</extra>
+            <active>1</active>
+        </item>
+        <item>
+            <price>0.00</price>
+            <compdesc>No Fees</compdesc>
+            <description>Geo Smart 12 mos. 0 pymts or interest</description>
+            <id>2qrKQg3uA5</id>
+            <calcPayment>x,*,.0833</calcPayment>
+            <extra>Avg 12 mo. Payment</extra>
+            <active>1</active>
+        </item>
+        <item>
+            <price>495.00</price>
+            <description>Geo Smart 24 mos. 0 pymts or interest - Lower than 16 SEER</description>
+            <id>zZ6UkEOJmL</id>
+            <calcPayment>x,*,.0417</calcPayment>
+            <extra>Avg 24 mo. Payment</extra>
+            <active>1</active>
+        </item>
+        <item>
+            <price>0.00</price>
+            <compdesc>No Fees</compdesc>
+            <description>Geo Smart 24 mos. 0 pymts or interest - 16 SEER or higher</description>
+            <id>LmJ0EkU6Zz</id>
+            <calcPayment>x,*,.0417</calcPayment>
+            <extra>Avg 24 mo. Payment</extra>
+            <active>1</active>
+        </item>
+    </financingOptions>
+    <miscellaneousOptions>	<!--Unit Accessories, Install Requirements, And Upgrades List-->
+        <item>				
+            <price>350.00</price>
+            <modifyPrice>1</modifyPrice>
+            <description>Drywall-Scuttle/Pad/Platform</description>
+            <id>hf5tSE15oW</id>
+            <active>1</active>
+        </item>
+        <item>				
+            <price>0.00</price>
+            <compdesc>INCLUDED</compdesc>
+            <modifyPrice>1</modifyPrice>
+            <retailPrice>350.00</retailPrice>
+            <description>Condensate Safety Kill Switch</description>
+            <id>65TnRJQrRD</id>
+            <active>1</active>
+        </item>
+        <item>				
+            <price>0.00</price>
+            <compdesc>INCLUDED</compdesc>
+            <modifyPrice>1</modifyPrice>
+            <retailPrice>350.00</retailPrice>
+            <description>Secondary Drain Pan with PVC</description>
+            <id>Qq4dT9swzl</id>
+            <active>1</active>
+        </item>
+        <item>				
+            <price>125.00</price>
+            <description>Condensate Pump Install</description>
+            <id>KU69QFuTPl</id>
+            <active>1</active>
+        </item>
+        <item>
+            <price>0.00</price>
+            <compdesc>INCLUDED</compdesc>
+            <modifyPrice>1</modifyPrice>		
+            <retailPrice>199.00</retailPrice>
+            <description>Plumbing Program With PMA</description>
+            <id>lpPJhTigW8</id>
+            <active>1</active>
+        </item>
+        <item>			
+            <price>165.00</price>
+            <description>Coil Guardian (Zinc Anode)</description>
+            <id>w2EhpIR82A</id>
+            <active>1</active>
+        </item>
+        <item>			
+            <price>595.00</price>
+            <description>Auxilliary Heat Strip Kit 5-10kw</description>
+            <id>r8EQSdEnTo</id>
+            <active>1</active>
+        </item>
+        <item>
+            <price>0.00</price>
+            <compdesc>INCLUDED</compdesc>
+            <modifyPrice>1</modifyPrice>			
+            <retailPrice>95.00</retailPrice>
+            <description>240 Volt Fuse Safety Box / Whip</description>
+            <id>yQCJLAg4x5</id>
+            <active>1</active>
+        </item>
+        <item>				
+            <price>145.00</price>
+            <description>240 Volt Surge Protector</description>
+            <id>lHreMYrfUf</id>
+            <active>1</active>
+        </item>
+        <item>			
+            <price>325.00</price>
+            <description>24 Volt Control Wire Run</description>
+            <id>CVJTevS7zv</id>
+            <active>1</active>
+        </item>
+        <item>			
+            <price>695.00</price>
+            <description>240 Volt Voltage Electrical Run</description>
+            <id>nS3RjR2BVK</id>
+            <active>1</active>
+        </item>
+        <item>			
+            <price>395.00</price>
+            <description>New AC Circuit Breaker</description>
+            <id>HErB9EW0L9</id>
+            <active>1</active>
+        </item>
+        <item>			
+            <price>1895.00</price>
+            <description>Electrical Subpanel Install</description>
+            <id>ivJeWXBa7n</id>
+            <active>1</active>
+        </item>
+        <item>			
+            <price>595.00</price>
+            <description>Air Return, Can &amp; Bar Type Grill</description>
+            <id>iuxLl1iYGg</id>
+            <active>1</active>
+            <qty>1</qty>
+        </item>
+        <item>		
+            <price>295.00</price>
+            <modifyPrice>1</modifyPrice>
+            <description>Supply Air Duct Run with Connectors</description>
+            <id>Irv96lnxSv</id>
+            <active>1</active>
+            <quantity>1</quantity>
+            <qty>1</qty>
+        </item>
+        <item>		
+            <price>795.00</price>
+            <description>Upsize Main Supply Trunk</description>
+            <id>S88iRu805m</id>
+            <active>1</active>
+        </item>
+        <item>
+            <price>0.00</price>
+            <compdesc>INCLUDED</compdesc>
+            <modifyPrice>1</modifyPrice>		
+            <retailPrice>475.00</retailPrice>
+            <description>Insulated Plenum Transition</description>
+            <id>wolOUUQ5Te</id>
+            <active>1</active>
+        </item>
+        <item>			
+            <price>295.00</price>
+            <description>Custom Platform &amp; Filter Base</description>
+            <id>CMy4CEtMEX</id>
+            <active>1</active>
+        </item>
+        <item>			
+            <price>0.00</price>
+            <compdesc>INCLUDED</compdesc>
+            <modifyPrice>1</modifyPrice>
+            <retailPrice>125.00</retailPrice>
+            <description>Custom Iron Stand</description>
+            <id>ZJSxOnFgjS</id>
+            <active>1</active>
+        </item>
+        <item>		
+            <price>275.00</price>
+            <description>Upsize Return Filter Grill Face Only</description>
+            <id>NMQI6YM5cg</id>
+            <active>1</active>
+            <qty>1</qty>
+        </item>
+        <item>		
+            <price>49.00</price>
+            <description>OBD Register - Standard Sizes</description>
+            <id>rRqwaDB4Dk</id>
+            <active>1</active>
+        </item>
+        <item>			
+            <price>695.00</price>
+            <description>Supply Box &amp; Return Seal/Strap</description>
+            <id>qTbVYdQJ7d</id>
+            <active>1</active>
+            <qty>1</qty>
+        </item>
+        <item>			
+            <price>125.00</price>
+            <description>New Condenser Padding 3x3</description>
+            <id>27VuC3PO4L</id>
+            <active>1</active>
+        </item>
+        <item>
+            <price>0.00</price>
+            <compdesc>INCLUDED</compdesc>
+            <modifyPrice>1</modifyPrice>			
+            <retailPrice>165.00</retailPrice>
+            <description>Refrigerant Flush and Filter Drier</description>
+            <id>YPlzEQGKf5</id>
+            <active>1</active>
+        </item>
+        <item>			
+            <price>895.00</price>
+            <description>New Copper Line Set(No Capping)</description>
+            <id>dSCuGvnyMX</id>
+            <active>1</active>
+        </item>
+        <item>		
+            <price>695.00</price>
+            <description>Variable Speed Conversion Kit</description>
+            <id>2gYH6gpZxI</id>
+            <active>1</active>
+        </item>
+        <item>		
+            <price>85.00</price>
+            <description>Washable Electrostatic Filter</description>
+            <id>lJ9cxUzzjV</id>
+            <active>1</active>
+        </item>
+        <item>			
+            <price>455.00</price>
+            <description>1" Electronic Air Filter</description>
+            <id>Ps6wu1wTBh</id>
+            <active>1</active>
+        </item>
+        <item>		
+            <price>1650.00</price>
+            <description>CleanEffects/PureAir MERV16</description>
+            <id>WLAQCOl6RS</id>
+            <active>1</active>
+        </item>
+        <item>		
+            <price>1250.00</price>
+            <description>REMI Whole-Home Purifier</description>
+            <id>8tnv35vkeI</id>
+            <active>1</active>
+        </item>
+        <item>		
+            <price>495.00</price>
+            <description>Ultra Violet Lights </description>
+            <id>rn2y6qYvO0</id>
+            <active>1</active>
+            <qty>1</qty>
+        </item>
+        <item>				
+            <price>3625.00</price>
+            <description>Fresh Air Exchanger</description>
+            <id>rn2y6qYvO0</id>
+            <active>1</active>
+        </item>
+        <item>			
+            <price>2875.00</price>
+            <description>HoneyWell Steam Humidifier</description>
+            <id>s1av7imtEL</id>
+            <active>1</active>
+        </item>
+        <item>
+            <price>0.00</price>
+            <compdesc>INCLUDED</compdesc>
+            <modifyPrice>1</modifyPrice>			
+            <retailPrice>165.00</retailPrice>
+            <description>Gas Supply Line (Flex)</description>
+            <id>4FSQ43UPHs</id>
+            <active>1</active>
+        </item>
+        <item>
+            <price>0.00</price>		
+            <compdesc>Wave $99 Install Fee</compdesc>
+            <description>$29.99 Monthy Home Security Alarm</description>
+            <id>I0Zr4jMA64</id>
+            <active>1</active>
+        </item>
+        <item>			
+            <price>1500.00</price>
+            <description>Permit / Engineer (if Applicable)</description>
+            <id>qoGRQh9VCV</id>
+            <active>1</active>
+        </item>
+        <item>
+            <price>0.00</price>
+            <compdesc>INCLUDED</compdesc>
+            <modifyPrice>1</modifyPrice>			
+            <retailPrice>195.00</retailPrice>
+            <description>City Permit (if Applicable)</description>
+            <id>9RrnmaXt8X</id>
+            <active>1</active>
+        </item>
+        <item>
+            <price>0.00</price>
+            <compdesc>INCLUDED</compdesc>
+            <modifyPrice>1</modifyPrice>			
+            <retailPrice>275.00</retailPrice>
+            <description>Insured Crane Service</description>
+            <id>jtmiLMAs1Q</id>
+            <active>1</active>
+        </item>
+        <item>		
+            <price>450.00</price>
+            <description>Over Sized Crane</description>
+            <id>0U3M7ya45r</id>
+            <active>1</active>
+        </item>
+        <item>		
+            <price>0.00</price>
+            <compdesc>Quote Price</compdesc>
+            <description>20% off Roof Repair or Replacement</description>
+            <id>0mzj5aK4Rc</id>
+            <active>1</active>
+        </item>
+        <item>			
+            <price>925.00</price>
+            <description>40 Gallon Electric Water Heater</description>
+            <id>xUyfOo615r</id>
+            <active>1</active>
+        </item>
+        <item>				
+            <price>995.00</price>
+            <description>50 gallon Electric Water Heater</description>
+            <id>xCcCmy5cqi</id>
+            <active>1</active>
+        </item>
+        <item>			
+            <price>3955.00</price>
+            <description>Gas Tankless Water Heater</description>
+            <id>ufr5dom0bX</id>
+            <active>1</active>
+        </item>
+        <item>			
+            <price>975.00</price>
+            <description>Gas Water Heater</description>
+            <id>1HpSg4oLF5</id>
+            <active>1</active>
+        </item>
+        <item>		
+            <price>275.00</price>
+            <description>Plumbing Pressure Relief Valve</description>
+            <id>qTl7gq3d3D</id>
+            <active>1</active>
+        </item>
+        <item>			
+            <price>525.00</price>
+            <description>Reverse Osmosis System</description>
+            <id>vCXuivHVo6</id>
+            <active>1</active>
+        </item>
+        <item>			
+            <price>1285.00</price>
+            <description>NUVO Saltless Water Softener</description>
+            <id>CKLal17rYq</id>
+            <active>1</active>
+        </item>
+        <item>			
+            <price>1625.00</price>
+            <description>Whole Home Water Softener</description>
+            <id>Qd7b6f0mJ7</id>
+            <active>1</active>
+        </item>
+        <item>		
+            <price>685.00</price>
+            <description>Grunfuss Insta-Hot Circulator</description>
+            <id>LvbCCMsyMW</id>
+            <active>1</active>
+        </item>
+        <item>		
+            <price>0.00</price>
+            <compdesc>Quote Price</compdesc>
+            <description>$29.99 Monthly Pest Control Service</description>
+            <id>PvEux66iLt</id>
+            <active>1</active>
+        </item>
+        <item>			
+            <price>99.00</price>
+            <description>Energy Audit</description>
+            <id>7IhviccU2L</id>
+            <active>1</active>
+        </item>
+        <item>
+            <price>0.00</price>
+            <compdesc>INCLUDED</compdesc>
+            <modifyPrice>1</modifyPrice>				
+            <retailPrice>79.00</retailPrice>
+            <description>Post Install Inspection</description>
+            <id>IZg8sUd6fo</id>
+            <active>1</active>
+        </item>
+        <item>
+            <price>0.00</price>
+            <compdesc>INCLUDED</compdesc>
+            <modifyPrice>1</modifyPrice>			
+            <retailPrice>375.00</retailPrice>
+            <description>Gas Flue Pipe</description>
+            <id>fQRnrpgCLE</id>
+            <active>1</active>
+        </item>
+    </miscellaneousOptions>
+    <maintenancePlanOptions>
+        <item>
+            <price>0.00</price>
+            <compdesc>INCLUDED</compdesc>
+            <description>No Maintenance Plan</description>
+            <id>fiUS20O4u7</id>
+            <active>1</active>
+            <radioDefault>1</radioDefault>
+        </item>
+        <item>				
+            <price>395.00</price>
+            <description>3 Year Maintanence Plan</description>
+            <id>NnOiN1QHiB</id>
+            <active>1</active>
+        </item>
+        <item>				
+            <price>595.00</price>
+            <description>5 Year Maintanence Plan</description>
+            <id>NHoL7ubUxJ</id>
+            <active>1</active>
+        </item>
+        <item>				
+            <price>995.00</price>
+            <description>10 Year Maintanence Plan</description>
+            <id>WqcUEI5ntp</id>
+            <active>1</active>
+        </item>
+    </maintenancePlanOptions>
+    <atticSolutions>		
+        <aeroseal>
+            <item>
+                <price>2495.00</price>
+                <description>Aeroseal / First Unit</description>
+                <id>Bg3gRXCHib</id>
+                <active>1</active>
+            </item>
+            <item>
+                <price>895.00</price>
+                <description>Aeroseal / Each additional Unit</description>
+                <id>EBqdv1Tbdf</id>
+                <active>1</active>
+                <qty>1</qty>
+            </item>
+            <item>
+                <price>225.00</price>
+                <description>Duct CFM Pressure Loss Report</description>
+                <id>zbKizacTdv</id>
+                <active>1</active>
+            </item>
+            <item>
+                <price>-200.00</price>		
+                <description>Rebate with EnergyStar 14+ Seer</description>
+                <id>vPTWi00PJX</id>
+                <active>0</active>
+                <qty>1</qty>
+            </item>
+        </aeroseal>
+        <additionalAtticInsulation>
+            <item>
+                <price>0.99</price>
+                <description>R-19 insulation (6 inch)</description>
+                <id>Gp5FxgTWXm</id>
+                <active>1</active>
+                <qty>1</qty>
+            </item>
+            <item>
+                <price>1.09</price>
+                <description>R-30 insulation (10 inch)</description>
+                <id>SimkKUHlP1</id>
+                <active>1</active>
+                <qty>1</qty>
+            </item>
+            <item>
+                <price>1.16</price>
+                <description>R-38 insulation (13 inch)</description>
+                <id>uYaDHDZnsE</id>
+                <active>1</active>
+                <qty>1</qty>
+            </item>
+            <item>
+                <price>195.00</price>
+                <description>Attic Vent Installation</description>
+                <id>RgdPXyz5w4</id>
+                <active>1</active>
+                <qty>1</qty>
+            </item>
+        </additionalAtticInsulation>
+        <ductCleaning>
+            <item>
+                <price>295.00</price>
+                <description> 1-12 Vents</description>
+                <id>Vqqo6VRG58</id>
+                <active>1</active>
+            </item>
+            <item>
+                <price>395.00</price>
+                <description>13+ Vents</description>
+                <id>dX0mpWnCrk</id>
+                <active>1</active>
+            </item>
+            <item>
+                <price>-100.00</price> 
+                <description>Rebate with EnergyStar 14+ Seer</description>
+                <id>Lj2ynsViJF</id>
+                <active>1</active>
+            </item>
+        </ductCleaning>
+    </atticSolutions>
+</estimatePricing>

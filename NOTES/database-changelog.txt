@@ -1,0 +1,1 @@
+#cleared previous development entries 4/2/15, new entries made today that are too extensive to list, TODO: Database update util
