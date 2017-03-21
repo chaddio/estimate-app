@@ -48,19 +48,12 @@
             <?php echo form_open($mFormAction2, $attr2) . "\n"?>
             <div class="modal-body">
                 <fieldset>
-                    <?php if(ENVIRONMENT == 'development') : ?>
-                        <div class="form-group"><input type="email" class="form-control" name="email" value="" id="email" placeholder="Customer Email"></div>
-                        <div class="form-group"><input type="number" class="form-control" maxlength="10" name="phone_number" value="5558675309" id="phone_number" placeholder="Phone Number (digits only)"></div>
-                        <div class="form-group"><input type="text" class="form-control" name="zip_code" value="85138" id="zip_code" placeholder="Zip Code"></div>
-                        <div class="form-group"><input type="text" class="form-control" name="first_name" value="Test" id="first_name" placeholder="First Name"></div>
-                        <div class="form-group"><input type="text" class="form-control" name="last_name" value="Estimate" id="last_name" placeholder="Last Name"></div>
-                    <?php else :?>
                         <div class="form-group"><input type="email" class="form-control" name="email" value="" id="email" placeholder="Customer Email"></div>
                         <div class="form-group"><input type="number" class="form-control" maxlength="10" name="phone_number" value="" id="phone_number" placeholder="Phone Number (digits only)"></div>
                         <div class="form-group"><input type="text" class="form-control" name="zip_code" value="" id="zip_code" placeholder="Zip Code"></div>
                         <div class="form-group"><input type="text" class="form-control" name="first_name" value="" id="first_name" placeholder="First Name"></div>
                         <div class="form-group"><input type="text" class="form-control" name="last_name" value="" id="last_name" placeholder="Last Name"></div>
-                    <?php endif ; ?>
+                  
                     <div class="form-group">
                         <select class="form-control" name="unit_type" id="unit_type" placeholder="Unit Type" />
                             <option value="" selected="selected">Unit Type - Please Select</option>
